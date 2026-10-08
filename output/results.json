@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "message": "The payment page crashes every time I click 'Checkout' on Chrome. Please fix this ASAP!",
+    "category": "Bug Report",
+    "priority": "Urgent",
+    "sentiment": "Negative",
+    "product": "Payment Page",
+    "suggested_reply": "Hi, thank you for reporting the problem with Payment Page. We are sorry for the trouble. Our team is looking into it and will update you soon.",
+    "method": "rules"
+  },
+  {
+    "id": "2",
+    "message": "Hi team, it would be awesome if you could add a dark mode to the mobile app.",
+    "category": "Feature Request",
+    "priority": "Medium",
+    "sentiment": "Positive",
+    "product": "Dark Mode",
+    "suggested_reply": "Hi, thank you for the suggestion about Dark Mode. We have shared it with our product team and will let you know if it is planned.",
+    "method": "rules"
+  },
+  {
+    "id": "5",
+    "message": "I was charged twice for my subscription this month. Please refund the extra payment.",
+    "category": "Billing Issue",
+    "priority": "High",
+    "sentiment": "Negative",
+    "product": "Subscription",
+    "suggested_reply": "Hi, thank you for contacting us about Subscription. We are sorry for the confusion. Our billing team will review your account and reply shortly.",
+    "method": "rules"
+  },
+  {
+    "id": "8",
+    "message": "How do I export my monthly report to PDF?",
+    "category": "General Inquiry",
+    "priority": "Low",
+    "sentiment": "Neutral",
+    "product": "Export",
+    "suggested_reply": "Hi, thank you for your message about Export. A member of our team will get back to you with an answer soon.",
+    "method": "rules"
+  },
+  {
+    "id": "9",
+    "message": "I love the new dashboard, it is amazing and very easy to use. Thanks!",
+    "category": "General Inquiry",
+    "priority": "Low",
+    "sentiment": "Positive",
+    "product": "Dashboard",
+    "suggested_reply": "Hi, thank you for your message about Dashboard. A member of our team will get back to you with an answer soon.",
+    "method": "rules"
+  },
+  {
+    "id": "10",
+    "message": "I cannot log in to my account. The password reset email never arrives and I need access immediately.",
+    "category": "Bug Report",
+    "priority": "Urgent",
+    "sentiment": "Negative",
+    "product": "Login",
+    "suggested_reply": "Hi, thank you for reporting the problem with Login. We are sorry for the trouble. Our team is looking into it and will update you soon.",
+    "method": "rules"
+  },
+  {
+    "id": "12",
+    "message": "The search feature is very slow and sometimes shows an error. Really disappointing.",
+    "category": "Bug Report",
+    "priority": "Medium",
+    "sentiment": "Negative",
+    "product": "Search",
+    "suggested_reply": "Hi, thank you for reporting the problem with Search. We are sorry for the trouble. Our team is looking into it and will update you soon.",
+    "method": "rules"
+  },
+  {
+    "id": "13",
+    "message": "Could you add support for exporting invoices as Excel files?",
+    "category": "Feature Request",
+    "priority": "Medium",
+    "sentiment": "Neutral",
+    "product": "Export",
+    "suggested_reply": "Hi, thank you for the suggestion about Export. We have shared it with our product team and will let you know if it is planned.",
+    "method": "rules"
+  },
+  {
+    "id": "14",
+    "message": "Is there an API available for connecting your service to our CRM?",
+    "category": "General Inquiry",
+    "priority": "Low",
+    "sentiment": "Neutral",
+    "product": "API",
+    "suggested_reply": "Hi, thank you for your message about API. A member of our team will get back to you with an answer soon.",
+    "method": "rules"
+  },
+  {
+    "id": "15",
+    "message": "Where can I find the invoice for last month? The billing page shows nothing.",
+    "category": "Billing Issue",
+    "priority": "Medium",
+    "sentiment": "Neutral",
+    "product": "Invoices",
+    "suggested_reply": "Hi, thank you for contacting us about Invoices. We are sorry for the confusion. Our billing team will review your account and reply shortly.",
+    "method": "rules"
+  },
+  {
+    "id": "16",
+    "message": "My mobile app freezes every time I open the notification settings. This is really frustrating.",
+    "category": "Bug Report",
+    "priority": "Medium",
+    "sentiment": "Negative",
+    "product": "Mobile App",
+    "suggested_reply": "Hi, thank you for reporting the problem with Mobile App. We are sorry for the trouble. Our team is looking into it and will update you soon.",
+    "method": "rules"
+  },
+  {
+    "id": "18",
+    "message": "I was charged $49.99 but I cancelled my subscription last week. I need a refund immediately.",
+    "category": "Billing Issue",
+    "priority": "Urgent",
+    "sentiment": "Neutral",
+    "product": "Subscription",
+    "suggested_reply": "Hi, thank you for contacting us about Subscription. We are sorry for the confusion. Our billing team will review your account and reply shortly.",
+    "method": "rules"
+  }
+]
