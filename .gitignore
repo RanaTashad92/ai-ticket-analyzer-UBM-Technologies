@@ -3,7 +3,3 @@ __pycache__/
 *.pyc
 .venv/
 .pytest_cache/
-*.docx
-_docx_text.txt
-_pipeline_output.txt
-_test_output.txt
