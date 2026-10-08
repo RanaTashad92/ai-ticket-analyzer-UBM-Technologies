@@ -55,8 +55,8 @@ If Ollama is not running or the model is unavailable, the system **automatically
 ### Install
 
 ```bash
-git clone https://github.com/<your-username>/ai-ticket-analyzer.git
-cd ai-ticket-analyzer
+git clone https://github.com/RanaTashad92/ai-ticket-analyzer-UBM-Technologies.git
+cd ai-ticket-analyzer-UBM-Technologies
 python -m venv .venv
 .venv\Scripts\activate
 pip install -r requirements.txt
